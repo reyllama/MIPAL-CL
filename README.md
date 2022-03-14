@@ -13,3 +13,4 @@ No | Title | Venue | Year | Link
 5 | TRGP: Trust Region Gradient Projection for Continual Learning | ICLR | 2022 | [[paper]](https://arxiv.org/abs/2202.02931)
 6 | DER: Dynamically Expandable Representation for Class Incremental Learning | CVPR | 2021 | [[paper]](https://arxiv.org/abs/2103.16788)
 7 | CPR: Classifier Projection Regularization for Continual Learning | ICLR | 2021 | [[paper]](https://arxiv.org/abs/2006.07326)
+8 | Adaptive Aggregation Networks for Class-Incremental Learning | CVPR | 2021 | [[paper]](https://arxiv.org/abs/2010.05063)
